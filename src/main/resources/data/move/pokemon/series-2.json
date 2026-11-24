@@ -1,0 +1,44 @@
+[
+	{
+		"id" : 224,
+		"code" : "MEGAHORN",
+		"type" : "BUG",
+		"category" : "PHYSICAL",
+		"tier" : 4,
+		"base_power" : 150,
+		"accuracy" : 85.0,
+		"action_speed" : 0.0,
+		"sync_ether_cost" : 24,
+		"stardust_tuning" : 4,
+		"target" : "SINGLE_TARGET",
+		"tags" : ["CONTACT"]
+	},
+	{
+		"id" : 231,
+		"code" : "IRON_TAIL",
+		"type" : "STEEL",
+		"category" : "PHYSICAL",
+		"tier" : 3,
+		"base_power" : 110,
+		"accuracy" : 75.0,
+		"action_speed" : 0.0,
+		"sync_ether_cost" : 18,
+		"stardust_tuning" : 3,
+		"target" : "SINGLE_TARGET",
+		"tags" : ["CONTACT"]
+	},
+	{
+		"id" : 250,
+		"code" : "WHIRLPOOL",
+		"type" : "WATER",
+		"category" : "SPECIAL",
+		"tier" : 2,
+		"base_power" : 35,
+		"accuracy" : 85.0,
+		"action_speed" : 0.0,
+		"sync_ether_cost" : 8,
+		"stardust_tuning" : 1,
+		"target" : "SINGLE_TARGET",
+		"tags" : []
+	}
+]

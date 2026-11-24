@@ -1,0 +1,25 @@
+{
+	"id" : 0,
+	"code" : "ETHAN",
+	"alternate_variety" : [
+		{
+			"id" : 0,
+			"region" : "JOHTO",
+			"classes" : "TRAINER_ON_JOURNEY",
+			"moves" : [
+				{
+					"id" : 0,
+					"code" : "BLAZING_EXCITEMENT",
+					"TP" : 2,
+					"sync_ether_cost" : 0,
+					"stardust_tuning" : 1,
+					"target" : "SELF",
+					"tags" : []
+				}
+			],
+			"partner" : [
+				"TYPHLOSION"
+			]
+		}
+	]
+}

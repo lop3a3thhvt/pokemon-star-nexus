@@ -1,0 +1,54 @@
+{
+	"id" : 0,
+	"code" : "ETHAN_AND_TYPHLOSION",
+	"partner_trainer" : "ETHAN",
+	"partner_pokemon" : {
+		"pokemon" : "TYPHLOSION",
+		"gender" : "MALE",
+		"is_shiny" : false
+	},
+	"star_jewel_emblem" : {
+		"star_type" : "FIRE",
+		"starsoul" : "PASSION"
+	},
+	"special_moves" : {
+		"resonance_moves" : [
+			{
+				"id" : 0,
+				"code" : "BLAZING_SOUL_ERUPTION",
+				"prototype" : "ERUPTION",
+				"base_power" : 160,
+				"accuracy" : 100.0,
+				"action_speed" : 0.0,
+				"sync_ether_cost" : 20,
+				"stardust_tuning" : 3,
+				"target" : "SINGLE_TARGET",
+				"tags" : []
+			}
+		],
+		"star_nexus_moves" : [
+			{
+				"id" : 0,
+				"code" : "ERUPTION_OF_ADVENTURER_SPIRIT",
+				"prototype" : "ERUPTION",
+				"base_power" : 210,
+				"target" : "SINGLE_TARGET",
+				"tags" : []
+			}
+		]
+	},
+	"states" : [
+		{
+			"id" : 0,
+			"code" : "BASE",
+			"pokemon_form" : "TYPHLOSION",
+			"moveset" : [
+				"PM/FLAMETHROWER",
+				"RM/BLAZING_SOUL_ERUPTION",
+				"IM/X_SP_ATK",
+				"TM/BLAZING_EXCITEMENT"
+			],
+			"star_nexus_move" : "ERUPTION_OF_ADVENTURER_SPIRIT"
+		}
+	]
+}

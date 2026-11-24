@@ -1,0 +1,75 @@
+{
+	"id" : 0,
+	"code" : "LATIAS_LEGENDARY_CHALLENGE_RED_WINGS_OF_EON",
+	"enemy_rank" : "MONARCH",
+	"partner_pokemon" : {
+		"pokemon" : "LATIAS",
+		"gender" : "FEMALE",
+		"is_shiny" : false
+	},
+	"star_jewel" : {
+		"star_type" : "DRAGON"
+	},
+	"phases" : [
+		{
+			"phase" : 1,
+			"code" : "FIRST_PHASE",
+			"states" : [
+				{
+					"id" : 0,
+					"code" : "BASE",
+					"pokemon_form" : "LATIAS",
+					"moveset" : [
+						"PM/CALM_MIND",
+						"PM/HYPER_BEAM",
+						"PM/PSYCHIC",
+						"PM/EXPANDING_FORCE",
+						"PM/DRAGON_PULSE",
+						"PM/BREAKING_SWIPE"
+					],
+					"star_nexus_move" : "DRAGON_NEXUS_STREAM"
+				}
+			]
+		},
+		{
+			"phase" : 2,
+			"code" : "SECOND_PHASE",
+			"states" : [
+				{
+					"id" : 0,
+					"code" : "BASE",
+					"pokemon_form" : "LATIAS",
+					"moveset" : [
+						"PM/CALM_MIND",
+						"PM/HYPER_BEAM",
+						"PM/PSYCHIC",
+						"PM/EXPANDING_FORCE",
+						"PM/DRAGON_PULSE",
+						"PM/BREAKING_SWIPE"
+					],
+					"star_nexus_move" : "DRAGON_NEXUS_STREAM"
+				}
+			]
+		},
+		{
+			"phase" : 3,
+			"code" : "THIRD_PHASE",
+			"states" : [
+				{
+					"id" : 0,
+					"code" : "BASE",
+					"pokemon_form" : "LATIAS",
+					"moveset" : [
+						"PM/CALM_MIND",
+						"PM/HYPER_BEAM",
+						"PM/PSYCHIC",
+						"PM/EXPANDING_FORCE",
+						"PM/DRAGON_PULSE",
+						"PM/BREAKING_SWIPE"
+					],
+					"star_nexus_move" : "DRAGON_NEXUS_STREAM"
+				}
+			]
+		}
+	]
+}

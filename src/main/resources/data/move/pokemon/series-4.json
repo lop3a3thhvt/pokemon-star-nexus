@@ -1,0 +1,30 @@
+[
+	{
+		"id" : 406,
+		"code" : "DRAGON_PULSE",
+		"type" : "DRAGON",
+		"category" : "SPECIAL",
+		"tier" : 3,
+		"base_power" : 105,
+		"accuracy" : 100.0,
+		"action_speed" : 0.0,
+		"sync_ether_cost" : 16,
+		"stardust_tuning" : 3,
+		"target" : "SINGLE_TARGET_LONG_RANGE",
+		"tags" : ["PULSE"]
+	},
+	{
+		"id" : 413,
+		"code" : "BRAVE_BIRD",
+		"type" : "FLYING",
+		"category" : "PHYSICAL",
+		"tier" : 3,
+		"base_power" : 120,
+		"accuracy" : 100.0,
+		"action_speed" : 0.0,
+		"sync_ether_cost" : 16,
+		"stardust_tuning" : 3,
+		"target" : "SINGLE_TARGET_LONG_RANGE",
+		"tags" : ["CONTACT", "RECOIL"]
+	}
+]

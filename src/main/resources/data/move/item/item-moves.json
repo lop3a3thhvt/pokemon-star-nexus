@@ -1,0 +1,128 @@
+[
+	{
+		"id" : 1,
+		"code" : "POTION",
+		"TP" : 4,
+		"sync_ether_cost" : 0,
+		"stardust_tuning" : 1,
+		"target" : "SELF_OR_SINGLE_ALLY_LONG_RANGE",
+		"tags" : ["HEALING"]
+	},
+	{
+		"id" : 2,
+		"code" : "SUPER_POTION",
+		"TP" : 3,
+		"sync_ether_cost" : 2,
+		"stardust_tuning" : 1,
+		"target" : "SELF_OR_SINGLE_ALLY_LONG_RANGE",
+		"tags" : ["HEALING"]
+	},
+	{
+		"id" : 3,
+		"code" : "HYPER_POTION",
+		"TP" : 2,
+		"sync_ether_cost" : 4,
+		"stardust_tuning" : 1,
+		"target" : "SELF_OR_SINGLE_ALLY_LONG_RANGE",
+		"tags" : ["HEALING"]
+	},
+	{
+		"id" : 4,
+		"code" : "MAX_POTION",
+		"TP" : 1,
+		"sync_ether_cost" : 6,
+		"stardust_tuning" : 1,
+		"target" : "SELF_OR_SINGLE_ALLY_LONG_RANGE",
+		"tags" : ["HEALING"]
+	},
+	{
+		"id" : 5,
+		"code" : "FULL_RESTORE",
+		"TP" : 1,
+		"sync_ether_cost" : 8,
+		"stardust_tuning" : 1,
+		"target" : "SELF_OR_SINGLE_ALLY_LONG_RANGE",
+		"tags" : ["HEALING"]
+	},
+	{
+		"id" : 6,
+		"code" : "ANTIDOTE",
+		"TP" : 3,
+		"sync_ether_cost" : 0,
+		"stardust_tuning" : 1,
+		"target" : "SELF_OR_SINGLE_ALLY_LONG_RANGE",
+		"tags" : []
+	},
+	{
+		"id" : 7,
+		"code" : "BURN_HEAL",
+		"TP" : 3,
+		"sync_ether_cost" : 0,
+		"stardust_tuning" : 1,
+		"target" : "SELF_OR_SINGLE_ALLY_LONG_RANGE",
+		"tags" : []
+	},
+	{
+		"id" : 8,
+		"code" : "ICE_HEAL",
+		"TP" : 3,
+		"sync_ether_cost" : 0,
+		"stardust_tuning" : 1,
+		"target" : "SELF_OR_SINGLE_ALLY_LONG_RANGE",
+		"tags" : []
+	},
+	{
+		"id" : 9,
+		"code" : "AWAKENING",
+		"TP" : 3,
+		"sync_ether_cost" : 0,
+		"stardust_tuning" : 1,
+		"target" : "SELF_OR_SINGLE_ALLY_LONG_RANGE",
+		"tags" : []
+	},
+	{
+		"id" : 10,
+		"code" : "PARALYZE_HEAL",
+		"TP" : 3,
+		"sync_ether_cost" : 0,
+		"stardust_tuning" : 1,
+		"target" : "SELF_OR_SINGLE_ALLY_LONG_RANGE",
+		"tags" : []
+	},
+	{
+		"id" : 11,
+		"code" : "FULL_HEAL",
+		"TP" : 3,
+		"sync_ether_cost" : 2,
+		"stardust_tuning" : 1,
+		"target" : "SELF_OR_SINGLE_ALLY_LONG_RANGE",
+		"tags" : []
+	},
+	{
+		"id" : 12,
+		"code" : "X_ATTACK",
+		"TP" : 3,
+		"sync_ether_cost" : 2,
+		"stardust_tuning" : 1,
+		"target" : "SELF",
+		"tags" : []
+	},
+	{
+		"id" : 13,
+		"code" : "X_DEFENSE",
+		"TP" : 3,
+		"sync_ether_cost" : 2,
+		"stardust_tuning" : 1,
+		"target" : "SELF",
+		"tags" : []
+	},
+	{
+		"id" : 14,
+		"code" : "X_SP_ATK",
+		"TP" : 3,
+		"sync_ether_cost" : 2,
+		"stardust_tuning" : 1,
+		"target" : "SELF",
+		"tags" : []
+	}
+]

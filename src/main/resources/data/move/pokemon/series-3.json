@@ -1,0 +1,65 @@
+[
+	{
+		"id" : 0,
+		"code" : "",
+		"type" : "",
+		"category" : "",
+		"tier" : 1
+	},
+	{
+		"id" : 284,
+		"code" : "ERUPTION",
+		"type" : "FIRE",
+		"category" : "SPECIAL",
+		"tier" : 3,
+		"base_power" : 150,
+		"accuracy" : 100.0,
+		"action_speed" : 0.0,
+		"sync_ether_cost" : 15,
+		"stardust_tuning" : 3,
+		"target" : "ALL_OPPONENTS",
+		"tags" : []
+	},
+	{
+		"id" : 297,
+		"code" : "FEATHER_DANCE",
+		"type" : "FLYING",
+		"category" : "STATUS",
+		"tier" : 2,
+		"base_power" : -1,
+		"accuracy" : 100.0,
+		"action_speed" : 0.0,
+		"sync_ether_cost" : 8,
+		"stardust_tuning" : 2,
+		"target" : "SINGLE_TARGET",
+		"tags" : []
+	},
+	{
+		"id" : 307,
+		"code" : "BLAST_BURN",
+		"type" : "FIRE",
+		"category" : "SPECIAL",
+		"tier" : 4,
+		"base_power" : 225,
+		"accuracy" : 90.0,
+		"action_speed" : -12.0,
+		"sync_ether_cost" : 26,
+		"stardust_tuning" : 4,
+		"target" : "SINGLE_TARGET",
+		"tags" : []
+	},
+	{
+		"id" : 347,
+		"code" : "CALM_MIND",
+		"type" : "PSYCHIC",
+		"category" : "STATUS",
+		"tier" : 2,
+		"base_power" : -1,
+		"accuracy" : -1,
+		"action_speed" : 0.0,
+		"sync_ether_cost" : 8,
+		"stardust_tuning" : 2,
+		"target" : "SELF",
+		"tags" : []
+	}
+]

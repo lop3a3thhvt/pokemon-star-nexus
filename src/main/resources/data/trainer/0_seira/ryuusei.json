@@ -1,0 +1,12 @@
+{
+	"id" : 0,
+	"code" : "RYUUSEI",
+	"alternate_variety" : [
+		{
+			"id" : 0,
+			"region" : "SEIRA",
+			"classes" : "TRAINER_ON_JOURNEY",
+			"moves" : []
+		}
+	]
+}

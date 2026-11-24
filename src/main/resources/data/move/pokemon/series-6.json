@@ -1,0 +1,30 @@
+[
+	{
+		"id" : 585,
+		"code" : "MOONBLAST",
+		"type" : "FAIRY",
+		"category" : "SPECIAL",
+		"tier" : 3,
+		"base_power" : 115,
+		"accuracy" : 100.0,
+		"action_speed" : 0.0,
+		"sync_ether_cost" : 16,
+		"stardust_tuning" : 3,
+		"target" : "SINGLE_TARGET",
+		"tags" : []
+	},
+	{
+		"id" : 612,
+		"code" : "POWER_UP_PUNCH",
+		"type" : "FIGHTING",
+		"category" : "PHYSICAL",
+		"tier" : 2,
+		"base_power" : 40,
+		"accuracy" : 100.0,
+		"action_speed" : 0.0,
+		"sync_ether_cost" : 8,
+		"stardust_tuning" : 2,
+		"target" : "SINGLE_TARGET",
+		"tags" : ["CONTACT", "PUNCHING"]
+	}
+]

@@ -1,0 +1,29 @@
+{
+	"id" : 0,
+	"code" : "ETHAN_AND_TYPHLOSION",
+	"enemy_rank" : "COMMANDER",
+	"partner_trainer" : "ETHAN",
+	"partner_pokemon" : {
+		"pokemon" : "TYPHLOSION",
+		"gender" : "MALE",
+		"is_shiny" : false
+	},
+	"star_jewel" : {
+		"star_type" : "FIRE",
+		"starsoul" : "PASSION"
+	},
+	"states" : [
+		{
+			"id" : 0,
+			"code" : "BASE",
+			"pokemon_form" : "TYPHLOSION",
+			"moveset" : [
+				"PM/FLAMETHROWER",
+				"PM/FIRE_BLAST",
+				"IM/X_SP_ATK",
+				"TM/BLAZING_EXCITEMENT"
+			],
+			"star_nexus_move" : "ERUPTION_OF_ADVENTURER_SPIRIT"
+		}
+	]
+}

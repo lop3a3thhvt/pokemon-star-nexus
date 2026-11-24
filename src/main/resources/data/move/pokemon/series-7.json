@@ -1,0 +1,16 @@
+[
+	{
+		"id" : 679,
+		"code" : "LUNGE",
+		"type" : "BUG",
+		"category" : "PHYSICAL",
+		"tier" : 3,
+		"base_power" : 100,
+		"accuracy" : 100.0,
+		"action_speed" : 0.0,
+		"sync_ether_cost" : 16,
+		"stardust_tuning" : 3,
+		"target" : "SINGLE_TARGET",
+		"tags" : ["CONTACT"]
+	}
+]

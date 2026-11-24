@@ -1,0 +1,24 @@
+{
+	"id" : 0,
+	"code" : "BUG_CATCHER_JIMMY_AND_METAPOD",
+	"enemy_rank" : "RETAINER",
+	"partner_trainer" : "BUG_CATCHER_JIMMY",
+	"partner_pokemon" : {
+		"pokemon" : "METAPOD",
+		"gender" : "MALE",
+		"is_shiny" : false
+	},
+	"star_jewel" : {
+		"star_type" : "BUG"
+	},
+	"states" : [
+		{
+			"id" : 0,
+			"code" : "BASE",
+			"pokemon_form" : "METAPOD",
+			"moveset" : [
+				"PM/STRING_SHOT"
+			]
+		}
+	]
+}

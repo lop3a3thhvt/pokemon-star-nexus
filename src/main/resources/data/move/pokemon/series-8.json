@@ -1,0 +1,30 @@
+[
+	{
+		"id" : 784,
+		"code" : "BREAKING_SWIPE",
+		"type" : "DRAGON",
+		"category" : "PHYSICAL",
+		"tier" : 2,
+		"base_power" : 60,
+		"accuracy" : 100.0,
+		"action_speed" : 0.0,
+		"sync_ether_cost" : 10,
+		"stardust_tuning" : 2,
+		"target" : "ALL_OPPONENTS",
+		"tags" : ["CONTACT"]
+	},
+	{
+		"id" : 797,
+		"code" : "EXPANDING_FORCE",
+		"type" : "PSYCHIC",
+		"category" : "SPECIAL",
+		"tier" : 2,
+		"base_power" : 80,
+		"accuracy" : 100.0,
+		"action_speed" : 0.0,
+		"sync_ether_cost" : 12,
+		"stardust_tuning" : 2,
+		"target" : "SINGLE_TARGET",
+		"tags" : []
+	}
+]
