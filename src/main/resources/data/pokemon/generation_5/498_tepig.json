@@ -5,7 +5,7 @@
     "types": ["FIRE"],
     "egg_groups": ["FIELD"],
     "color": "RED",
-    "shape": "QUADRUPED",
+    "shape": "FOUR_LEGGED",
     "height": 0.5,
     "weight": 9.9,
     "forms": [
